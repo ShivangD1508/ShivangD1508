@@ -66,3 +66,5 @@ Currently working on:
 ## Connect
 
 LinkedIn: https://linkedin.com/in/sdpk
+Email: shivangdayavarshetty@gmail.com
+Phone: +1 801-301-3010

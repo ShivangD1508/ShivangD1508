@@ -1,70 +1,63 @@
 # Hi, I'm Shivang 👋
 
-Data Scientist with experience building end-to-end analytics workflows, machine learning models, and business intelligence solutions across retail and operational analytics.
+Data Scientist focused on analytics engineering, customer intelligence, and machine learning applications in retail and business operations.
 
-I work on transforming raw data into scalable pipelines, predictive models, and decision-ready dashboards that create measurable business impact.
+I work on building scalable data workflows, translating business problems into SQL-driven analysis, and developing analytical tools that improve decision-making.
 
 ---
 
 ## Technical Skills
 
-**Programming & Analytics**
+**Programming & Analytics**  
 Python • SQL • Pandas • NumPy • scikit-learn • TensorFlow
 
-**Data Platforms & Engineering**
-BigQuery • Snowflake • Databricks • Airflow • Spark
+**Data Platforms & Query Engines**  
+BigQuery • Treasure Data • Snowflake • Databricks • Spark
 
-**Visualization & BI**
-Power BI • Tableau • Data Visualization • KPI Reporting
+**Visualization & Reporting**  
+Power BI • Tableau • KPI Reporting • Dashboard Design
 
-**Engineering & Workflow**
-ETL Pipelines • Data Modeling • CI/CD • Git
+**Engineering & Workflow**  
+ETL Pipelines • Data Modeling • Git • API Integrations • Streamlit
 
 ---
 
 ## Professional Focus
 
-* Retail Analytics
-* Customer Segmentation
-* Predictive Modeling
-* Data Engineering
-* Business Intelligence
+- Retail Analytics  
+- Customer Segmentation  
+- Revenue & Conversion Analysis  
+- Predictive Modeling  
+- Data Workflow Automation  
 
 ---
 
 ## Featured Projects
 
-### California Housing Price Prediction
+### LLM Treasure Data Query Assistant  
+Natural-language-to-SQL assistant built with Python, OpenAI, Streamlit, and Treasure Data for interactive analytics querying.
 
-Machine learning project using regression models and feature analysis to predict housing prices.
+### California Housing Price Prediction  
+Machine learning project using regression models and feature engineering to predict housing values.
 
-### E-Commerce Search System
+### SQL Business Analysis Projects  
+SQL-based analytical case studies focused on customer behavior, segmentation, and revenue insights.
 
-Search-focused analytics project exploring product relevance and search behavior.
-
-### SQL Business Analysis Projects
-
-SQL-driven case studies focused on extracting business insights from structured datasets.
-
-### Power BI Dashboard Work
-
-Interactive KPI dashboards built for business performance monitoring.
+### Power BI Dashboard Work  
+Interactive dashboards designed for KPI tracking and business performance monitoring.
 
 ---
 
-## Professional Background
+## Current Work
 
-Currently working on:
-
-* Analytics pipelines for large-scale retail datasets
-* Customer retention and segmentation models
-* Executive dashboards for operational KPI tracking
-* Automated data workflows for business reporting
+- Customer analytics for retail datasets  
+- Segmentation and conversion analysis  
+- Automated reporting workflows  
+- Query automation and analytical tooling  
 
 ---
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/sdpk
+LinkedIn: https://linkedin.com/in/sdpk  
 Email: shivangdayavarshetty@gmail.com
-Phone: +1 801-301-3010
